@@ -31,7 +31,7 @@
 `forge init enzifiri` <br>
 `cd enzifiri` <br>
 `forge build` <br>
-`forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter` <br>
+``forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter`` <br>
 
 Replace METAMASKPRIVATEKEY with your private wallet key. <br>
 
