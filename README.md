@@ -19,6 +19,7 @@
 
 1- Connect to your VPS/VDS server using terminal. <br>
 2- Enter the commands below. 
+<div align="center">
 
 `apt-get upgrade`  <br>
 `apt install curl` <br>
@@ -31,8 +32,9 @@
 `forge init enzifiri` <br>
 `cd enzifiri` <br>
 `forge build` <br>
+`forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter` <br>
 
-``forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter`` <br>
+</div>
 
 Replace METAMASKPRIVATEKEY with your private wallet key. <br>
 
@@ -57,6 +59,8 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 1- Terminal kullanarak VPS/VDS sunucunuza bağlanın <br>
 2- Aşağıdaki komutları sırasıyla yazın. 
 
+<div align="center">
+
 `apt-get upgrade`  <br>
 `apt install curl` <br>
 `apt install get` <br>
@@ -69,6 +73,8 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 `cd enzifiri` <br>
 `forge build` <br>
 ``` forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter ``` <br>
+
+</div>
 
 METAMASKPRIVATEKEY yazan yere Cüzdanınızın private keyini girin ve komutu çalıştırın <br>
 
