@@ -10,6 +10,8 @@
 
 </h3>
 
+## You can run it on the server where the taiko is installed, it will not cause any problems.
+
 <details>
 
 <summary> 
@@ -49,6 +51,8 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 
 <h2> Türkçe Rehber </summary> </h2>
 
+## Taikonun kurulu olduğu sunucuda çalıştırabilirsiniz, herhangi bir problem yaratmaz.
+
 1- Terminal kullanarak VPS/VDS sunucunuza bağlanın <br>
 2- Aşağıdaki komutları sırasıyla yazın. 
 
@@ -68,6 +72,10 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 METAMASKPRIVATEKEY yazan yere Cüzdanınızın private keyini girin ve komutu çalıştırın <br>
 
 Eğer çıktıda TX çıktısı görüyorsanız muhtemelen başarılı şekilde contratı oluşturdunuz. Verdiği txi Explorerda aratıp kontrol edin. <br>
+
+## Hata alırsanız oluşturduğunuz taiko klasörünü silip tekrar komutları girin (source ile başlayan komutla başlayın) <br>
+
+Taiko klasörünü silme komutu `rm -rf taiko`
 
 <h2> 
 
