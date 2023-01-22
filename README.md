@@ -67,7 +67,7 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 `forge init enzifiri` <br>
 `cd enzifiri` <br>
 `forge build` <br>
-`forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter` <br>
+``` forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter ``` <br>
 
 METAMASKPRIVATEKEY yazan yere Cüzdanınızın private keyini girin ve komutu çalıştırın <br>
 
