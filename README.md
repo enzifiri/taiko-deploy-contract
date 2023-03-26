@@ -31,7 +31,7 @@
 `cd taiko` <br>
 `git config --global user.email "you@example.com"` <br>
 `git config --global user.name "Your Name"` <br>
-`forge init enzifiri` <br>
+`forge init enzifiri --force` <br>
 `cd enzifiri` <br>
 `forge build` <br>
 (Combine the commands below.) <br>
@@ -73,7 +73,7 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 `cd taiko` <br>
 `git config --global user.email "you@example.com"` (Mail Girin)<br> 
 `git config --global user.name "Your Name"`(isim girin) <br>
-`forge init enzifiri` <br>
+`forge init enzifiri --force` <br>
 `cd enzifiri` <br>
 `forge build` <br>
 (alttaki komutları birleşik yazın) <br>
