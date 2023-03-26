@@ -78,7 +78,7 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 `forge build` <br>
 (alttaki komutları birleşik yazın) <br>
 ``` forge create --legacy --rpc-url https://rpc.a2.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter ``` <br>
-
+Aldığınız çıktıyı Explorerda aratın başarıylı ise sorun yoktur. (Son komutu 3 4 kere calıstırdım nolur ne olmaz :)))
 
 METAMASKPRIVATEKEY yazan yere Cüzdanınızın private keyini girin ve komutu çalıştırın <br>
 
@@ -90,6 +90,8 @@ Taiko klasörünü silme komutu `rm -rf taiko`
 
 <h2> 
 
-[Taiko Explorer Link](https://l2explorer.a1.taiko.xyz/)
+[Taiko Explorer Link](https://l2explorer.a2.taiko.xyz/)
+
+![image](https://user-images.githubusercontent.com/76253089/227777027-ef64e3f3-3d73-4893-beb3-757e564ce005.png)
 
 </h2>
