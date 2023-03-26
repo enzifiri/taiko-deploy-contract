@@ -33,7 +33,7 @@
 `cd enzifiri` <br>
 `forge build` <br>
 (Combine the commands below.) <br>
-`forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter` <br>
+`forge create --legacy --rpc-url https://rpc.a2.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter` <br>
 
 
 
@@ -73,7 +73,7 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 `cd enzifiri` <br>
 `forge build` <br>
 (alttaki komutları birleşik yazın) <br>
-``` forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter ``` <br>
+``` forge create --legacy --rpc-url https://rpc.a2.taiko.xyz --private-key METAMASKPRIVATEKEY src/Counter.sol:Counter ``` <br>
 
 
 METAMASKPRIVATEKEY yazan yere Cüzdanınızın private keyini girin ve komutu çalıştırın <br>
