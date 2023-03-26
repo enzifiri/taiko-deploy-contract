@@ -29,6 +29,8 @@
 `foundryup` <br>
 `mkdir taiko` <br>
 `cd taiko` <br>
+`git config --global user.email "you@example.com"` <br>
+`git config --global user.name "Your Name"` <br>
 `forge init enzifiri` <br>
 `cd enzifiri` <br>
 `forge build` <br>
@@ -69,6 +71,8 @@ Congratulations, if you see the tx hash in your output, you have successfully cr
 `foundryup` <br>
 `mkdir taiko` <br>
 `cd taiko` <br>
+`git config --global user.email "you@example.com"` (Mail Girin)<br> 
+`git config --global user.name "Your Name"`(isim girin) <br>
 `forge init enzifiri` <br>
 `cd enzifiri` <br>
 `forge build` <br>
